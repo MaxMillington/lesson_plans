@@ -347,7 +347,7 @@ First install __PhantomJS__ using homebrew:
 
 ```
 brew update
-brew install phantomjs
+brew install phantomjs --HEAD
 ```
 (Make sure you get version 2.0+)
 
